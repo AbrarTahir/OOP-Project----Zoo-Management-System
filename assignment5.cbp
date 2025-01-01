@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="assignment5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/assignment5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/assignment5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="amphibians.cpp" />
+		<Unit filename="amphibians.h" />
+		<Unit filename="animal.cpp" />
+		<Unit filename="animal.h" />
+		<Unit filename="animalhealth.cpp" />
+		<Unit filename="animalhealth.h" />
+		<Unit filename="assignment5.cpp" />
+		<Unit filename="assignment5.h" />
+		<Unit filename="birds.cpp" />
+		<Unit filename="birds.h" />
+		<Unit filename="fish.cpp" />
+		<Unit filename="fish.h" />
+		<Unit filename="habitat.cpp" />
+		<Unit filename="habitat.h" />
+		<Unit filename="invertebrates.cpp" />
+		<Unit filename="invertebrates.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mammals.cpp" />
+		<Unit filename="mammals.h" />
+		<Unit filename="reptiles.cpp" />
+		<Unit filename="reptiles.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

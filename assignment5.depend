@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1688721858 source:c:\users\abrar\documents\assignment5\assignment5.cpp
+	<iostream>
+	<string>
+	"assignment5.h"
+	"animal.h"
+	"animalhealth.h"
+	"habitat.h"
+	"amphibians.h"
+	"birds.h"
+	"fish.h"
+	"invertebrates.h"
+	"mammals.h"
+	"reptiles.h"
+
+1688129620 c:\users\abrar\documents\assignment5\assignment5.h
+
+1688129639 source:c:\users\abrar\documents\assignment5\main.cpp
+	<iostream>
+	"assignment5.h"
+
+1689167865 source:c:\users\abrar\documents\assignment5\animal.cpp
+	<iostream>
+	<string>
+	"animal.h"
+
+1703015009 c:\users\abrar\documents\assignment5\animal.h
+	"habitat.h"
+	"animalhealth.h"
+
+1688385918 source:c:\users\abrar\documents\assignment5\amphibians.cpp
+	<iostream>
+	<string>
+	"amphibians.h"
+
+1688548041 c:\users\abrar\documents\assignment5\amphibians.h
+	"animal.h"
+
+1688385900 source:c:\users\abrar\documents\assignment5\birds.cpp
+	<iostream>
+	<string>
+	"birds.h"
+
+1688548041 c:\users\abrar\documents\assignment5\birds.h
+	"animal.h"
+
+1688385889 source:c:\users\abrar\documents\assignment5\fish.cpp
+	<iostream>
+	<string>
+	"fish.h"
+
+1688548368 c:\users\abrar\documents\assignment5\fish.h
+	"animal.h"
+
+1688385875 source:c:\users\abrar\documents\assignment5\invertebrates.cpp
+	<iostream>
+	<string>
+	"invertebrates.h"
+
+1688548041 c:\users\abrar\documents\assignment5\invertebrates.h
+	"animal.h"
+
+1688385862 source:c:\users\abrar\documents\assignment5\mammals.cpp
+	<iostream>
+	<string>
+	"mammals.h"
+
+1688548041 c:\users\abrar\documents\assignment5\mammals.h
+	"animal.h"
+
+1688385861 source:c:\users\abrar\documents\assignment5\reptiles.cpp
+	<iostream>
+	<string>
+	"reptiles.h"
+
+1688548041 c:\users\abrar\documents\assignment5\reptiles.h
+	"animal.h"
+
+1689167647 source:c:\users\abrar\documents\assignment5\animalhealth.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"animalhealth.h"
+
+1689167647 c:\users\abrar\documents\assignment5\animalhealth.h
+
+1689167763 source:c:\users\abrar\documents\assignment5\habitat.cpp
+	<iostream>
+	<string>
+	"habitat.h"
+
+1689167763 c:\users\abrar\documents\assignment5\habitat.h
+
