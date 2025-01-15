@@ -1,4 +1,5 @@
 Zoo Management System
+
 A comprehensive Zoo Management System implemented in C++ using Object-Oriented Programming (OOP) principles. This project showcases all four pillars of OOP: Encapsulation, Abstraction, Inheritance, and Polymorphism. It features complex logic structures such as arrays of pointers (Animal* animals[MAX_ANIMALS];), enabling efficient dynamic memory management and polymorphic behavior.
 
 Key Features:
